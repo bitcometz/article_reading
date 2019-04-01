@@ -1,3 +1,19 @@
 Sunflower pan-genome analysis shows that hybridization altered gene content and disease resistance
 
+hybridization-杂交
+
+introgression-基因渗入
+
+syndrome-综合征
+
+morphological and ecological-形态和生态
+
+congeners-同源物
+
+
+1. SNP过滤的条件：
+The cultivated sunflower data set was further filtered using population-level filters and exclusion of lines with relatively high levels of heterozygosity, leaving a total of 675,291 high-quality SNPs across 239 accessions of the SAM population
+
+
+
 
