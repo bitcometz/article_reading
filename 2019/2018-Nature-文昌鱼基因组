@@ -1,0 +1,12 @@
+Amphioxus functional genomics and the origins of vertebrate gene regulation
+
+1. Here we sequence the genome of the Mediterranean amphioxus (Branchiostoma lanceolatum) and characterize DNA methylation, chromatin accessibility, histone modifications and transcriptomes across multiple developmental stages and adult tissues to investigate the evolution of the regulation of the chordate genome
+
+histone modifications-组蛋白修饰
+
+nematodes-线虫
+
+1. 重点是做APREs的分析
+A comprehensive functional annotation of the B. lanceolatum genome identified 88,391 putative cis-regulatory elements of DNA as defined by assay for transposase-accessible chromatin using sequencing (ATAC-seq) (these elements are hereafter referred to as APREs), as well as 20,569 protein-coding genes supported by orthology. We divided the APREs into promoters—around transcription start sites (TSSs), which were highly supported by cap analysis gene-expression sequenc- ing (CAGE-seq) data, Extended Data Fig. 2b—and gene-body, prox- imal and distal APREs (Fig. 1c). 
+文章就围绕了APREs做了很多分析。
+
