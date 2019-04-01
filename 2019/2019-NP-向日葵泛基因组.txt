@@ -14,6 +14,13 @@ congeners-同源物
 1. SNP过滤的条件：
 The cultivated sunflower data set was further filtered using population-level filters and exclusion of lines with relatively high levels of heterozygosity, leaving a total of 675,291 high-quality SNPs across 239 accessions of the SAM population
 
+2. 新基因的发现
+A total of 17,061 de novo-assembled genes were absent from the reference genome and passed all filtering steps (see Supplementary Methods).
+However, this is probably an underestimate of the true pan-genome owing to the possible combining of close paralogues. Indeed, our approach estimates 47,848 genes in the XRQ reference rather than the 52,232 protein-coding genes reported by Badouin et al.
+
+3. disease resistance
+也是用GWAS做出来的，因此这个项目用pan-genome没有怎么用上
+
 
 
 
