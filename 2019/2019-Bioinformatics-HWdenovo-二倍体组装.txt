@@ -1,0 +1,5 @@
+A haplotype-aware de novo assembly of related individuals using pedigree graph
+
+主要是用来做家族的组装的，要求的深度不高
+后面再仔细看看，文章也比较了CanuTrio
+
