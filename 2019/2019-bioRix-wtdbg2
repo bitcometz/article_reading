@@ -1,0 +1,8 @@
+Fast and accurate long-read assembly with wtdbg2
+
+It represents a significant algorithmic advance and paves the way for population-scale long-read assembly in future.
+
+It is essential to the study of new species and structural genomic changes that often fail mapping-based analysis as the reference genome may lack the regions of interest.
+
+With the rapid advances in single-molecule sequencing technologies by Pacific Biosciences (PacBio) and Oxford Nanopore Technologies (ONT), we are able to sequence reads of 10–100 kilobases (kb) at affordable cost.
+
