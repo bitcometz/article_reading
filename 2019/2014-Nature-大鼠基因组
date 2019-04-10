@@ -1,0 +1,19 @@
+Genome sequence of the Brown Norway rat yields insights into mammalian evolution
+
+虽然大鼠在国际上一般称之为挪威大鼠，大鼠应该是来源于中国北方，由于一次地震游泳过去欧洲的。
+
+大鼠跟小鼠应该是在12-24个百万年分开，他们的染色体已经很不一样了，虽然X还保持的很好
+
+这个基因组已经做到染色体水平，用的是遗传图谱
+
+GC含量的情况跟小鼠差不多，但是跟human很不一样，而且发现可能是跟小的变异相关
+
+用的是Ensembl gene prediction pipeline来做注释
+
+基因的对应关系
+These overall observations are consistent with a careful analysis of rat proteases showing that 93% of these genes have 1:1 orthologues in mouse
+
+Surprisingly, a similar proportion (89 to 90%) of rat genes possessed a single orthologue in the human genome.
+
+基因区的变异率很低
+Indel rates within rat coding sequences were 50-fold lower than in bulk genomic DNA
