@@ -1,0 +1,4 @@
+关于HiC数据质控的说法
+Qualitycontrol/troubleshoot.Notethatthemajorityofstatisticsdevelopedas part of the Juicer pipeline are not robust with respect to the draft genome assembly quality and will differ dramatically when the same Hi-C library is processed against genome assemblies of varying levels of contiguity. As such they can have limited utility for quality control and troubleshooting, especially for highly fragmented genomes.
+In such cases it is often useful to pay attention to the percentage of reads containing ligation junctions in the raw fastq files of the Hi-C library. The exact number depends on the restriction enzyme, size selection protocols and the sequencing read length, but typically amounts to 20-40% for a reasonably good in situ Hi-C library. Low numbers may indicate poor Hi-C data quality.
+
