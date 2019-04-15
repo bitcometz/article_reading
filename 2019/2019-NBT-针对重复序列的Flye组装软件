@@ -7,6 +7,5 @@ Assembly of long, error-prone reads using repeat graphs
 3. Resolving unbridged and nearly identical repeats using SMS reads is a difficult problem since error-prone SMS reads make it difficult to distinguish repeat copies with divergence below 10%
 这句话不一定对，falcon的纠错，其实可以分开大多数的重复序列了
 
-4. 测试结果中，确实会比canu的要好些，但是
+4. 测试结果中，确实会比canu的要好些，文章虽然说比较了5个软件，但是其实很多时候只比较了某一个软件
 
-4. 测试结果中，确实会比canu的要好些
