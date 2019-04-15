@@ -14,4 +14,6 @@ Currently, the ONT assemblies have many base-calling errors (the Flye and Canu H
 
 然后采用Pilon进一步修正得到：
 To mitigate the high error rates of these ONT assemblies, we used Pilon26 in the indel correction mode to polish Flye and Canu assemblies using Illumina reads. Although such polishing reduced the error rates (to 0.30% for Flye+Pilon and to 0.51% for Canu + Pilon), we note that Illumina-based read correction of ONT assemblies has limitations, especially for repetitive regions with low short-read mappability.
-错误率可以降低到千分之五，但是在重复序列区域由于很多reads比对不上，因此
+错误率可以降低到千分之五，但是在重复序列区域由于很多reads比对不上，因此在这些区域的错误率还是比较高的
+
+
