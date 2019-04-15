@@ -1,0 +1,12 @@
+Assembly of long, error-prone reads using repeat graphs
+
+1. 速度比较快，因为不需要对raw reads进行纠错
+
+2. 试图解开重复序列，在human上测试了segmental duplications的组装情况
+
+3. Resolving unbridged and nearly identical repeats using SMS reads is a difficult problem since error-prone SMS reads make it difficult to distinguish repeat copies with divergence below 10%
+这句话不一定对，falcon的纠错，其实可以分开大多数的重复序列了
+
+4. 测试结果中，确实会比canu的要好些，但是
+
+4. 测试结果中，确实会比canu的要好些
