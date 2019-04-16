@@ -1,0 +1,11 @@
+De Novo PacBio long-read and phased avian genome assemblies correct and add to genes important in neuroscience research
+
+1. 作者用pacbio数据重新组装了zebra finch(Sanger based)和hummingbird(illumina based)的基因组，而且用Falcon-Unzip对杂合区域组装出来了两套
+基因组
+
+2. 作者还用Busco和CEGMA评估了目前的组装情况，确实有很好的提升，但是主要鸟的BUSCO数据集合可能都是由二代来做的，因此不能体现出很好的结果
+
+3. 作者还用RNA-Seq和Chip-Seq做了评估，显示比对率和唯一比对率都有比较不错的提升
+
+4. 作者着重看了一些重要的基因，显示了由于组装的问题对于一些基因的注释会出现问题，譬如说断裂，譬如说第一个外显子注释错误了
+而pacbio的reads往往有效地跨过了这些区域
