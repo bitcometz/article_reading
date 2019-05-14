@@ -1,0 +1,22 @@
+The tomato pan-genome uncovers new genes and a rare allele regulating fruit flavor
+
+We present a tomato pan-genome con- structed using genome sequences of 725 phylogenetically and geographically representative accessions, revealing 4,873 genes absent from the reference genome.
+其实大部分都是来自之前测序的结果
+
+Moreover, we found that 69.6% of the reference and 22.4% of the nonreference genes were expressed at >1 reads per kilobase (kb) of exon per million mapped reads (RPKM) in fruit pericarp tissues at the orange stage (about 75% ripe) in at least 1 of 397 accessions for which RNA-sequencing (RNA-Seq) data were available
+从表达量的情况来看，说明这些基因注释的结果假阳性非常之大
+
+The most striking feature of the tomato pan-genome was its high core gene content (74.2%), as compared with those of Arabidopsis thaliana23 (70%), Brassica napus25 (62%), bread wheat26 (64%), rice11 (54%), wild soybean22 (49%) and Brachypodium distachyon24 (35%)
+说一个发现是在于番茄的core基因的比例相对其他物种要高不少
+
+although it is noteworthy that this pan-genome was based on only eight cultivated and one wild accession, and would likely shrink in core gene representation if additional accessions were sequenced.
+正如作者说这种高比例可能是跟选样是有关的
+
+Selection of c PAVs during tomato breeding. 
+作者还研究了启动子的缺失跟表达量的关系
+
+A rare promoter allele that modifies fruit flavor
+其中重点说了一个4kbp 序列片段的替换可能对基因TomLoxC的表达
+量
+量影响
+
